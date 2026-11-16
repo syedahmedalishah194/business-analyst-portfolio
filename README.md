@@ -23,55 +23,78 @@ This portfolio showcases independent case studies demonstrating my skills in bus
 - **Business Domains:** Financial services, banking complaints, retail operations, consultancy and AML compliance.
 - **Additional Learning:** Python and Pandas (foundational level).
 
+---
+
 ## Portfolio Projects
 
 ### Project 01 – UK Banking Complaints Analysis & Process Improvement
 
-**Status:** Completed | **Tools:** Excel, Power BI, draw.io, Notion
+**Status:** Completed  
+**Tools:** Excel, Power BI, draw.io, Notion
 
 An independent Business Analyst case study using FCA banking complaints data from H1 2026 to investigate complaints performance and propose improvements to the complaints-handling process.
 
-**Key Deliverables:**
-- Analysis of approximately 703,000 opened and 701,000 closed complaints across 48 reporting firms.
-- Complaint performance and outcome dashboards in Power BI.
-- Illustrative AS-IS and TO-BE process maps.
-- Identification of potential workflow bottlenecks.
-- Proposed business requirements, KPIs and process improvement recommendations.
+**Key Highlights:**
+
+- Analysed approximately 703,000 opened and 701,000 closed complaints across 48 reporting firms.
+- Built Power BI dashboards to evaluate complaint performance and outcomes.
+- Developed illustrative AS-IS and TO-BE process maps.
+- Identified potential workflow bottlenecks.
+- Proposed business requirements, operational KPIs and improvement recommendations.
 
 **Skills Demonstrated:** Business process analysis, KPI development, data analysis, requirements definition and process redesign.
 
-**[View Project 01](01-business-process-improvement/)**
+**[View Project 01 – Full Case Study](01-business-process-improvement/)**
 
 ---
 
 ### Project 02 – UK Online Retail Sales Performance Analysis
 
-**Status:** Completed | **Tools:** SQL (SQLite), Power BI, DB Browser for SQLite
+**Status:** Completed – November 2026  
+**Tools:** SQL (SQLite), Power BI, DB Browser for SQLite
 
 An independent retail analytics case study using the UCI Online Retail dataset to examine sales performance, product demand, customer purchasing behaviour and geographic revenue distribution.
 
 **Key Results:**
-- 541,909 original transaction lines analysed.
-- 530,104 qualifying sales records.
-- £10.67 million in qualifying positive sales revenue.
-- 19,960 unique qualifying orders.
-- £534.40 average order value.
-- 4,338 identifiable customers.
+
+| KPI | Result |
+|---|---:|
+| Original transaction lines | 541,909 |
+| Qualifying sales records | 530,104 |
+| Qualifying sales revenue | £10,666,684.54 |
+| Total orders | 19,960 |
+| Average order value | £534.40 |
+| Identifiable customers | 4,338 |
 
 **Key Deliverables:**
-- SQL queries for data validation, sales KPIs and business questions.
+
+- SQL analysis covering data validation, sales KPIs and business questions.
 - Product and customer performance analysis.
 - Investigation of unusual transactions and sensitivity analysis.
 - Four-page Power BI dashboard.
-- Business findings and actionable recommendations.
+- Business findings and evidence-based recommendations.
+- Full business analysis case study documented in Notion.
 
-Revenue represents qualifying positive sales, not net revenue or profit.
+**Dashboard Pages:**
 
-**Skills Demonstrated:** SQL, data cleaning, KPI analysis, customer segmentation, data visualisation and evidence-based recommendations.
+1. Sales Overview
+2. Product Performance
+3. Customer Analysis
+4. Geographic Performance
 
-**[View Project 02](02-retail-sales-analysis/)**
+**[View Project 02 – Full Case Study](02-retail-sales-analysis/)**
 
-**[View Power BI Dashboard PDF](02-retail-sales-analysis/Project_02_UK_Retail_Dashboard.pdf)**
+**[View Power BI Dashboard – PDF](02-retail-sales-analysis/dashboard/Project_02_UK_Retail_Dashboard.pdf)**
+
+**[Download Power BI Dashboard – PBIX](02-retail-sales-analysis/dashboard/Project_02_UK_Retail_Dashboard.pbix)**
+
+**[View SQL Analysis](02-retail-sales-analysis/sql/Project_02_UK_Retail_Analysis.sql)**
+
+**[View Full Business Analysis on Notion](https://mulberry-wax-686.notion.site/02-UK-Online-Retail-Sales-Performance-Analysis-4173347718b98065b797cb3d8f91eec9)**
+
+**Skills Demonstrated:** SQL, data cleaning, KPI analysis, customer segmentation, data-quality assessment, Power BI, DAX and evidence-based recommendations.
+
+*Revenue represents qualifying positive sales, not net revenue or profit.*
 
 ---
 
@@ -81,9 +104,13 @@ Revenue represents qualifying positive sales, not net revenue or profit.
 
 A financial operations case study inspired by my MSc consultancy experience involving anti-money laundering processes.
 
-The project will explore transaction monitoring workflows, operational bottlenecks, process improvements, business requirements and performance measurement, using appropriately sourced or illustrative data.
+The project will explore transaction monitoring workflows, operational bottlenecks, business requirements, operational KPIs and improvement recommendations using appropriately sourced or illustrative data.
 
 **Planned Skills:** Financial operations analysis, AML process mapping, requirements definition, operational KPIs and process improvement.
+
+**[View Project 03 – Planned Project](03-financial-operations-analysis/)**
+
+---
 
 ## Education
 
@@ -102,4 +129,8 @@ University of Hertfordshire, United Kingdom
 - **GitHub:** [github.com/syedahmedalishah194](https://github.com/syedahmedalishah194)
 - **Email:** [syedahmedalishah194@gmail.com](mailto:syedahmedalishah194@gmail.com)
 
-*This portfolio contains independent analytical case studies developed to demonstrate practical business analysis and data analytics capabilities.*
+**Location:** London, United Kingdom
+
+---
+
+*This portfolio contains independent analytical case studies demonstrating practical business analysis and data analytics capabilities.*
