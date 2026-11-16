@@ -91,7 +91,7 @@ An interactive four-page Power BI dashboard was developed to communicate the ana
 
 | File | Description |
 |---|---|
-| [SQL Analysis](Project_02_UK_Retail_Analysis.sql) | SQL queries for data quality checks, KPIs, sales, products, customers and geographic analysis |
+| [SQL Analysis](sql/Project_02_UK_Retail_Analysis.sql) | SQL queries for data quality checks, KPIs, sales, products, customers and geographic analysis |
 | [Power BI Dashboard](dashboard/Project_02_UK_Retail_Dashboard.pbix) | Editable Power BI report containing four analytical pages |
 | [Dashboard PDF](dashboard/Project_02_UK_Retail_Dashboard.pdf) | Four-page dashboard export for easy viewing |
 
