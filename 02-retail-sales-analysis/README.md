@@ -116,3 +116,13 @@ The raw dataset and SQLite database are not included in this repository. The SQL
 This is an independent Business Analyst portfolio project using publicly available historical data.
 
 The project demonstrates practical analytical methods and decision-support recommendations. The findings are not presented as consulting work commissioned by the original retailer.
+
+
+## 11. Full Business Analysis Case Study
+
+The complete project documentation is available on Notion, including detailed business questions, KPI definitions, SQL findings, analysis limitations, recommendations and the embedded Power BI dashboard.
+
+**[View the Full Project 02 Case Study on Notion](https://mulberry-wax-686.notion.site/02-UK-Online-Retail-Sales-Performance-Analysis-4173347718b98065b797cb3d8f91eec9)**
+
+**[View Supporting Documentation](documentation/)**
+  
